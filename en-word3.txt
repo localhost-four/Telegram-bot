@@ -1,0 +1,45 @@
+I’m looking at you
+I’m looking for you
+I’m looking forward to it
+You stay away from me!
+Have you looked through that book?
+Have you looked that book through?
+Have you looked it through?
+Dogs look up to us
+Our financial situation is looking up
+I always look new words up in the dictionary
+I must be getting back
+We started with soup and had ice-cream to end up with
+All stories end up like that
+She takes a lot of time to make up
+He is ready to make up
+They couldn't make up their minds what to do next
+Do you give up?
+His face took on a worried expression
+Do you want to come in for a cup of tea?
+Get out of here
+He got out his glasses
+He turned out to be a doctor
+A statue was set up in his honour
+A close friendship had grown up between them
+She grew up in New York
+He pointed out my mistakes
+To go out into the country
+Let's go out next Sunday
+How did your chocolate cake come out?
+When does their new album come out?
+I must find out the train times
+When are you going back to London?
+
+
+
+
+'person', 'bicycle', 'car', 'motorbike', 'aeroplane', 'bus', 'train', 'truck', 'boat', 'traffic light',
+'fire hydrant', 'stop sign', 'parking meter', 'bench', 'bird', 'cat', 'dog', 'horse', 'sheep', 'cow',
+'elephant', 'bear', 'zebra', 'giraffe', 'backpack', 'umbrella', 'handbag', 'tie', 'suitcase', 'frisbee',
+'skis', 'snowboard', 'sports ball', 'kite', 'baseball bat', 'baseball glove', 'skateboard', 'surfboard',
+'tennis racket', 'bottle', 'wine glass', 'cup', 'fork', 'knife', 'spoon', 'bowl', 'banana', 'apple',
+'sandwich', 'orange', 'broccoli', 'carrot', 'hot dog', 'pizza', 'donut', 'cake', 'chair', 'sofa',
+'pottedplant', 'bed', 'diningtable', 'toilet', 'tvmonitor', 'laptop', 'mouse', 'remote', 'keyboard',
+'cell phone', 'microwave', 'oven', 'toaster', 'sink', 'refrigerator', 'book', 'clock', 'vase', 'scissors',
+'teddy bear', 'hair drier', 'toothbrush'

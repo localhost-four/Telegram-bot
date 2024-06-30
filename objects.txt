@@ -1,0 +1,31 @@
+usp - HK USP .45 Tactical
+glock - Glock18 Select Fire
+deagle - Desert Eagle .50AE
+p228 - SIG P228
+elite - Dual Beretta 96G Elite
+fn57 - FN Five-Seven
+m3 - Benelli M3 Super90
+xm1014 - Benelli XM1014
+mp5 - HK MP5-Navy
+tmp - Тактический пистолет-пулемёт Steyr
+p90 - FN P90
+mac10 - Ingram MAC-10
+ump45 - HK UMP45
+ak47 - Автомат Калашникова AK-47
+galil - IMI Galil
+famas - GIAT FAMAS
+sg552 - Sig SG-552 Commando
+m4a1 - Colt M4A1 Carbine
+aug - Steyr Aug
+scout - Steyr Scout
+awp - AI Arctic Warfare/Magnum
+g3sg1 - Снайперская винтовка HK G3/SG-1
+sg550 - Снайперский Sig SG-550
+m249 - FN M249 Para
+flash - Ослепляющая граната
+hegren - Взрывающаяся граната
+sgren - Дымовая граната
+vest - Бронежилет
+vesthelm - Бронежилет со шлемом
+defuser - Набор сапёра
+shield - Тактический щит
